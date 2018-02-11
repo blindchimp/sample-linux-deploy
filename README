@@ -1,0 +1,13 @@
+CDC-X is Copyright (c) 1995-present, Dwyco, Inc.
+All rights reserved.
+
+CDC-X is an online audio/video live call and messaging system.
+
+This just contains a minimal set of files needed by CDC-X 
+on Linux. Simply symlink to your cdcx executable, and run it
+with the CWD in this directory (and optionally set the LD_LIBRARY_PATH=.
+if your system does not have a Qt4 installation.)
+
+It is here for testing, as you normally would not install the
+program as a normal end-user deployment while testing it.
+
